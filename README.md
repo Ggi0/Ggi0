@@ -50,18 +50,8 @@
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ggi0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ggi0&layout=compact&theme=tokyonight&hide_border=true" />
   <br>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ggi0&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ggi0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="90%" />
 </div>
 
 ---
