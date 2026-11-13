@@ -47,38 +47,6 @@
 
 ---
 
-## Proyectos destacados
-
-### SG-Food – Data Warehouse y automatización ETL/ELT
-[Ver repositorio](https://github.com/Ggi0/SS22S2026_grupo21/tree/main/proyectos/proyecto1)
-
-Implementación de una arquitectura de datos para centralizar información de ventas, inventarios y proveedores, automatizando su extracción, transformación y validación.
-
-**Tecnologías:** Python, PostgreSQL, Apache Airflow, dbt y Docker.
-
-### Quetxal TV – Plataforma de streaming basada en microservicios
-[Ver repositorio](https://github.com/Ggi0/SA_PROYECTO_G8/blob/develop/README.md)
-
-Desarrollo de una plataforma de streaming mediante microservicios independientes, con comunicación gRPC y despliegue automatizado en Google Cloud Platform.
-
-**Tecnologías:** TypeScript, Python, Go, PostgreSQL, gRPC, Docker, Kubernetes y GitHub Actions.
-
-### Semi-Social – Aplicación web de interacción social en la nube
-[Ver documentación](https://github.com/Ggi0/SEMINARIO1_A_1S2026_G8/blob/feature/bot/Proyecto/documentation/ManualTecnico.md)
-
-Desarrollo de una red social con publicaciones multimedia, comentarios y chat en tiempo real, integrando servicios de AWS para autenticación, almacenamiento y procesamiento de contenido.
-
-**Tecnologías:** JavaScript, Node.js, MySQL, AWS Cognito, S3, Lambda, API Gateway, Rekognition, EC2 y Elastic Load Balancing.
-
-### Gestor de Archivos EXT2 – Administración de sistemas de archivos
-[Ver documentación](https://github.com/Ggi0/MIA_1S2025_P1_202100229/blob/main/Documentacion/manualTecnico.md)
-
-Desarrollo de una aplicación web para administrar discos, particiones, archivos, carpetas, usuarios y permisos mediante la implementación del sistema de archivos EXT2.
-
-**Tecnologías:** Go, Gin, React y API REST.
-
----
-
 ## Estadísticas de GitHub
 
 <div align="center">
